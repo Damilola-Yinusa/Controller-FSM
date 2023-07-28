@@ -1,0 +1,11 @@
+module DFF(Clk, data, count);
+  parameter size = 4;
+  input [size-1:0] data;
+  input Clk;
+  output reg [size-1:0] count;
+  
+  always @(posedge Clk)
+    begin
+      count <= data;
+    end
+endmodule

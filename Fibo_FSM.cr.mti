@@ -1,0 +1,120 @@
+{D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/DFF.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/DFF.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/FSM_DECO.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/FSM_DECO.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM_DECO
+
+Top level modules:
+	FSM_DECO
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/ALU.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/Fibo_Datapath_tb.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/Fibo_Datapath_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Fibo_Datapath_tb
+
+Top level modules:
+	Fibo_Datapath_tb
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/Fibo_Datapath.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/Fibo_Datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Fibo_Datapath
+
+Top level modules:
+	Fibo_Datapath
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/FIBO_FSM_all.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/FIBO_FSM_all.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FIBO_FSM_all
+
+Top level modules:
+	FIBO_FSM_all
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/Fibo_FSM.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/Fibo_FSM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Fibo_FSM
+
+Top level modules:
+	Fibo_FSM
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/FSM.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/FSM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/Registers.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/Registers.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Registers
+
+Top level modules:
+	Registers
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/new_DFF.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/new_DFF.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module new_DFF
+
+Top level modules:
+	new_DFF
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/Memory.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/MUX_2.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/MUX_2.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_2
+
+Top level modules:
+	MUX_2
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/Fibo_FSM_tb.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/Fibo_FSM_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Fibo_FSM_tb
+
+Top level modules:
+	Fibo_FSM_tb
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/FIBO_FSM_all_tb.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/Projects/LAB 7/FIBO_FSM_all_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FIBO_FSM_all_tb
+
+Top level modules:
+	FIBO_FSM_all_tb
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/MUX_4.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/MUX_4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_4
+
+Top level modules:
+	MUX_4
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/decoder.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/AND_Gates.v} {1 {vlog -work work {D:/Fourth Semester/CNG 232 (EEE 248)/Lab Materials/Projects/LAB 6/AND_Gates.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module AND_Gates
+
+Top level modules:
+	AND_Gates
+
+} {} {}}
